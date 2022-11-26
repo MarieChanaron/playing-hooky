@@ -6,8 +6,8 @@
 ## Summary
 This project is implementing a light/dark theme feature in a Todo list React application using a custom hook.
 The custom hook has two features:
-1- it toggles the theme (on clicking on the button on the top right),
-2- it returns the current theme (to change the button text).
+1. it toggles the theme (on clicking on the button on the top right),
+2. it returns the current theme (to change the button text).
 
 ## How it works
 We are using the 'data-theme' custom data attribute to save our theme state in the DOM when the page loads.
