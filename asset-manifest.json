@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/playing-hooky/static/css/main.4be8f131.css",
+    "main.js": "/playing-hooky/static/js/main.e0a0261c.js",
+    "index.html": "/playing-hooky/index.html",
+    "main.4be8f131.css.map": "/playing-hooky/static/css/main.4be8f131.css.map",
+    "main.e0a0261c.js.map": "/playing-hooky/static/js/main.e0a0261c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be8f131.css",
+    "static/js/main.e0a0261c.js"
+  ]
+}
